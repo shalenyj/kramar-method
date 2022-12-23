@@ -1,0 +1,15 @@
+{
+  "name": "kramar-method",
+  "version": "1.0.0",
+  "description": "Cramer's rule is an explicit formula for the solution of a system of linear equations with as many equations as unknowns",
+  "main": "kramar.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "kramar"
+  ],
+  "author": "shalenyj",
+  "license": "ISC",
+  "type":"module"
+}
